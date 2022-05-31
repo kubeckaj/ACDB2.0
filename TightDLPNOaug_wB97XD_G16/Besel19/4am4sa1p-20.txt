@@ -1,0 +1,13 @@
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_1A/0.log    	1.78573 1.61194 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_1A_1SA/1000.log    	5.49119 6.78356 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_1SA/str2.log    	3.2709 4.90707 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_2A_2SA/1009.log    	5.08837 13.7053 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_2A_3SA/1672.log    	5.07151 18.8832 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_3A_4SA/3285.log    	3.36361 25.8059 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_4A_4SA/2433.log    	3.25013 27.4101 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_4A_5SA/1688.log    	7.16334 32.3938 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_5A_4SA/2030.log    	7.08784 29.3056 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_5A_5SA/2121.log    	2.88908 34.2789 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_5A_6SA/1384.log    	9.28827 39.2605 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_6A_5SA/1064.log    	6.35642 36.1918 
+/wrk/beselvit/DONOTREMOVE/results_A+SA_neutral/resultsSYS_6A_6SA/271.log    	7.63082 41.0541 
